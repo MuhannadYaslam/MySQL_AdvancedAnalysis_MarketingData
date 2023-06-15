@@ -1,4 +1,5 @@
-# MySQL_Projects_MarketingData
+# The project original code file is attached above. File name: "MySolutionsQueryForAll.sql"
+# About The Project:
 The purpose of this repository is to present the MySQL project that I have completed. The projects primarily involve utilizing analytical skills with MySQL to produce insights for the marketing team based on concepts such as:
 1- traffic source analysis, bid optimization
 2- analysis of website performance
