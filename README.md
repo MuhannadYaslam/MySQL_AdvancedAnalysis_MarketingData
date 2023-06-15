@@ -1,4 +1,4 @@
-# The project original code file is attached above. File name: "MySolutionsQueryForAll.sql"
+# The project original code file is attached above. File name: "allSolutions_advanced_mysql_analysis.sql"
 # About The Project:
 The purpose of this repository is to present the MySQL project that I have completed. The projects primarily involve utilizing analytical skills with MySQL to produce insights for the marketing team based on concepts such as:
 1- traffic source analysis, bid optimization
